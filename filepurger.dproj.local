@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/08/07 15:59:38.000.770,=C:\Users\tcoat\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/07 16:47:17.000.731,=C:\Users\tcoat\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/07 16:48:11.000.489,C:\Users\tcoat\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\tcoat\OneDrive\Documents\Embarcadero\Studio\Projects\PurgeFiles\uMain.pas</Transaction>
+    <Transaction>2024/08/07 16:48:11.000.489,C:\Users\tcoat\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\tcoat\OneDrive\Documents\Embarcadero\Studio\Projects\PurgeFiles\uMain.dfm</Transaction>
+    <Transaction>2024/08/07 16:48:34.000.370,C:\Users\tcoat\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\tcoat\OneDrive\Documents\Embarcadero\Studio\Projects\PurgeFiles\filepurger.dproj</Transaction>
+    <Transaction>2024/08/07 16:49:21.000.013,=C:\Users\tcoat\OneDrive\Documents\Embarcadero\Studio\Projects\PurgeFiles\uDeleteFiles.pas</Transaction>
+    <Transaction>2024/08/07 17:10:32.000.776,=C:\Users\tcoat\OneDrive\Documents\Embarcadero\Studio\Projects\PurgeFiles\Unit1.pas</Transaction>
+    <Transaction>2024/08/07 17:10:51.000.854,C:\Users\tcoat\OneDrive\Documents\Embarcadero\Studio\Projects\PurgeFiles\Unit1.pas=C:\Users\tcoat\OneDrive\Documents\Embarcadero\Studio\Projects\PurgeFiles\uDebugTool.pas</Transaction>
+  </Transactions>
+</BorlandProject>
